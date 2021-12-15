@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">m8_prak</string>
+    <string name="text_reset">Reset</string>
+    <string name="text_actionButton">New</string>
+</resources>
